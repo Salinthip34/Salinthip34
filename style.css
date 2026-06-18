@@ -24,10 +24,11 @@ margin: 5px 0 0;
 color: #c71585;
 }
 
-section {
-padding: 20px;
-margin: 20px auto;
-max-width: 800px;
-background: #fff0f5;
-border-radius: 8px;
+header h1 {
+    margin: 0;
+}
+
+p {
+    margin: 5px 0 0;
+    color: #c71585; /* สีข้อความชมพูเข้ม */
 }
