@@ -4,10 +4,9 @@ font-family: Arial, sans-serif;
 line-height: 1.6;
 margin: 0;
 padding: 0;
-background-color: #ffeef8;
+background-color: #e6f0ff; /* ฟ้าอ่อนพาสเทล */
 color: #333;
 }
-
 header {
 background-color: #ffb6c1;
 color: white;
